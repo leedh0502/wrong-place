@@ -8,7 +8,7 @@
 
 ## 실행
 
-1. `Wrong.Place.zip`의 압축을 풉니다(풀면 약 6.7GB).
+1. `Wrong.Place.zip`의 압축을 풉니다(풀면 약 7.2GB).
 2. `Wrong Place` 폴더 안의 `Wrong Place.exe`를 실행합니다.
    - `game` 폴더는 게임 본체이니 옮기거나 지우지 마세요.
 
